@@ -1,1 +1,2 @@
-# quizJS
+### QuizJS
+Квиз, написанный на чистом JavaScript
